@@ -3,11 +3,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&width=550&lines=Computer+Science+Undergraduate;University+of+Kelaniya+(FCT)+🇱🇰;Passionate+Full-Stack+Developer;Tech+Enthusiast+%26+Lifelong+Learner" alt="Typing SVG">
 </p>
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hasiyak&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" height="175" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasiyak&layout=compact&theme=tokyonight&border_radius=10" alt="Top Langs" height="175" />
 </p>
+
+<br>
 
 ---
 
@@ -24,6 +27,10 @@ const Hasiya = {
     lifePhilosophy: "Learning something new every day 🚀"
 };
 ```
+<br>
+<br>
+<br>
+
 ## 🛠️ Technical Stack
 
 <table align="center">
@@ -54,12 +61,15 @@ const Hasiya = {
    
   </tr>
 </table>
-
+<br>
+<br>
+<br>
 
 
 ---
 
-
+<br>
+<br>
 
 ## 📫 Let's Connect & Collaborate
 
@@ -73,6 +83,8 @@ const Hasiya = {
 </p>
 
 ---
+<br>
+<br>
 
 <div align="center">
   
