@@ -2,11 +2,13 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&width=550&lines=Computer+Science+Undergraduate;University+of+Kelaniya+(FCT)+🇱🇰;Passionate+Full-Stack+Developer;Tech+Enthusiast+%26+Lifelong+Learner" alt="Typing SVG">
+
+<br>
+
+  [![GitHub followers](https://img.shields.io/github/followers/hasiyak?label=Follow&style=social)](https://github.com/hasiyak)
+
 </p>
 <br>
-
-<br>
-
 ---
 
 ## 👨‍💻 About Me
