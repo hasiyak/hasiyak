@@ -6,12 +6,12 @@
 <img src="https://komarev.com/ghpvc/?username=Hasiya0202&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
-## 👦 About Me
+##  About Me
 
 ```javascript
 const Hasiya = {
   fullName: "KGH Kaveeshwara",
-  location: "Sri Lanka 🇱🇰",
+  location: "Sri Lanka",
   education: "Computer Science Undergraduate at University of Kelaniya (FCT)",
   nickname: "Hasiya / Machan",
   currentFocus: ["C Programming", "Database Design", "Web Development"],
@@ -21,3 +21,16 @@ const Hasiya = {
   },
   lifePhilosophy: "Learning something new every day 🚀"
 };
+🛠 Tech Arsenal
+Core Technologies
+Web Technologies
+📊 GitHub Stats
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DHasiya0202%26show_icons%3Dtrue%26theme%3Dradical" alt="GitHub Stats" />
+</p>
+
+📫 Let's Connect
+<p align="left">
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/hasindu-kaveeshwara-a81427302" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="mailto:kaveeshwarahasindu@gmail.com" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+</p>
