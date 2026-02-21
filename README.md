@@ -1,23 +1,23 @@
 # 🚀 KGH Kaveeshwara (Hasiya) 👋
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&width=550&lines=Computer+Science+Undergraduate;University+of+Kelaniya+(FCT)+🇱🇰;Passionate+Full-Stack+Developer;Tech+Enthusiast+%26+Lifelong+Learner" alt="Typing SVG">
-
-<br>
-
-  [![GitHub followers](https://img.shields.io/github/followers/hasiyak?label=Follow&style=social)](https://github.com/hasiyak)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&width=550&lines=Computer+Science+Undergraduate;University+of+Kelaniya+(FCT);Passionate+Full-Stack+Developer;Tech+Enthusiast+%26+Lifelong+Learner" alt="Typing SVG">
 </p>
-<br>
----
+
+<div align="center">
+  
+ 
+  [![GitHub followers](https://img.shields.io/github/followers/hasiyak?label=Follow&style=social)](https://github.com/hasiyak)
+ 
+</div>
 
 ## 👨‍💻 About Me
+<br>
 
 ```javascript
 const Hasiya = {
     identity: "KGH Kaveeshwara",
-    location: "Sri Lanka 🇱🇰",
-    education: "B.Sc. (Hons) in Computer Science",
+    location: "Sri Lanka",
+    education: "BSc. (Hons) in Computer Science",
     university: "University of Kelaniya (FCT)",
     currentFocus: ["C Programming", "Database Design", "Web Development"],
     projects: ["O/L Math Learning Platform", "Sri Lanka Travel Guide"],
@@ -25,10 +25,9 @@ const Hasiya = {
 };
 ```
 <br>
-<br>
-<br>
 
 ## 🛠️ Technical Stack
+<br><br>
 
 <table align="center">
   <tr>
@@ -65,6 +64,7 @@ const Hasiya = {
 
 ---
 ## 📊 GitHub Analytics
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hasiyak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
@@ -79,6 +79,7 @@ const Hasiya = {
 <br>
 
 ## 📫 Let's Connect & Collaborate
+<br>
 
 <p align="center">
   <a href="www.linkedin.com/in/hasindu-kaveeshwara-a81427302"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
