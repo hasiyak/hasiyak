@@ -11,9 +11,9 @@
 ```javascript
 const Hasiya = {
   fullName: "KGH Kaveeshwara",
-  location: "Sri Lanka 🇱🇰",
+  location: "Sri Lanka",
   education: "Computer Science Undergraduate at University of Kelaniya (FCT)",
-  nickname: "Hasiya / Machan",
+  nickname: "Hasiyak",
   currentFocus: ["C Programming", "Database Design", "Web Development"],
   projects: {
     travel: "Sri Lanka Travel Website",
