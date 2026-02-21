@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Hasiya! 👋
 
-<!--
-**hasiyak/hasiyak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=ඔයාගේ_නව_Username_එක_මෙතනට&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</p>
 
-Here are some ideas to get you started:
+## 👦 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Computer Science Undergraduate** at University of Kelaniya (FCT)
+- 💻 **Nickname:** Hasiya
+- 🚀 **Current Focus:** Learning C Programming, SQL, and Web Design
+- 🛠 **Projects:** - A travel website about Sri Lanka
+  - An educational platform for O/L Math students
+
+```javascript
+const Hasiya = {
+  education: "University of Kelaniya - FCT",
+  skills: ["C", "SQL", "HTML", "CSS", "Bootstrap"],
+  interests: ["Database Design", "Boolean Algebra", "Web Services"],
+  lifePhilosophy: "Learning something new every day 🚀"
+};
